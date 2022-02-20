@@ -1,0 +1,15 @@
+INSERT INTO EMPLOYEE (Employee_ID, Company_ID, First_Name, Middle_Name, Last_Name, Gender, Department_ID, Position, Regular_Rate, Overtime_Rate, Phone_No, Email, House_No, Street_Name, Subdivision, Barangay, City, Zip_Code) VALUES
+(1001, 1, 'Phillip', 'Cruz', 'Sanchez', 'Male', 1, 'Staff', 70.00, 105.00, '09195554497', 'phillipsanchez@gmail.com', '118', 'Zaragoza St', 'San Lorenzo Village', 'Poblacion', 'Makati City', 1210),
+(1002, 1, 'Jazmine', 'Geavonna', 'Castro', 'Female', 2, 'Manager', 460.00, 690.00, '09281639502', 'jazminecastro@gmail.com', '95314', 'Amir Prairie', NULL, 'San Francisco Del Monte', ' Quezon City', 1105),
+(1003, 1, 'Reynante', 'Roxas', 'Crisostomo', 'Male', 2, 'Staff', 70.00, 105.00, '09821384928', 'rcrisostomo@gmail.com', '783', 'Dolores Terrace', 'Greater Heights', 'Fairview', 'Quezon City', 1118),
+(1004, 1, 'Imelda', 'Tamayo', 'Mendoza', 'Female', 4, 'Assisstant Manager', 300.00, 450.00, '09827183729', 'imeldamendoza@outlook.com', '77', 'Sct. Tobias', 'Mother Ignacia Avenue', 'Bagong Silangan', 'Quezon City', 1119),
+(1005, 1, 'Spencer Reilly', 'Dumlao', 'Macaraig', 'Male', 6, 'Staff', 70.00, 105.00, '09273910381', 'spencermacaraig@icloud.com', 'Don Pablo Building', 'Amorsolo Street', 'Legaspi Village', 'Palanan', 'Makati City', 1235),
+(1006, 1, 'Jamie', 'Generosa', 'Henson', 'Female', 3, 'Staff', 70.00, 105.00, '09138291040', 'jamiehenson@up.edu.ph', '10', 'Resthaven Street', NULL, 'San Francisco Del Monte', 'Quezon City', 1105),
+(1007, 1, 'Ingrid', 'Siso', 'Abayan', 'Female', 5, 'Supervisor', 230.00, 345.00, '09134810425', 'ingridabayan@icloud.com', '108', 'Piñan - Mutia Road', NULL, 'Kalawit', 'Zamboanga del Norte', 7124),
+(1008, 1, 'Kara', 'Serafina', 'Tengco', 'Female', 7, 'Staff', 70.00, 150.00, '09256731683', 'ingridabayan@yahoo.com', NULL, 'Capitol Estate 2', 'Commonwealth Avenue', 'Diliman', 'Quezon City', 1101),
+(1009, 1, 'Cristian', 'Panganiban', 'Roxas', 'Male', 7, 'Maneger', 460.00, 690.00, '09148592042', 'christianroxas@gmail.com', 'L28 B10', 'Molave Street', 'Violago Homes Parkwoods', 'Payatas B', 'Quezon City', 1119),
+(1110, 1, 'Stephanie', 'Sanchez', 'Reyes', 'Female', 4, 'Staff', 70.00, 150.00, '09163829184', 'stephreyes@gmail.com', '568A', 'Palayan Street', NULL, 'Payatas', 'Quezon City', 1119),
+(2001, 2, 'Estrella', 'Villarino', 'Gabuat',  'Female', 5, 'Supervisor', 230.00, 345.00, '09209532057', 'estrellagabuat@gmail.com', '5', 'Kennedy Drive', 'Pleasant View Subd', 'Tandang Sora', 'Quezon City', 1116),
+(4001, 4, 'Andrea', 'Bejo', 'Tolentino', 'Female', 3, 'Assisstant Manager', 300.00, 450.00, '09284910385', 'andreatolentino@gmail.com', 'Lot 27A', 'Molave St', 'Jade Heights Victoria Homes', 'Tunasan', 'Muntinlupa City', 1773),
+(3001, 3, 'Chelsey', 'Villamayor', 'Ticzon', 'Female', 6, 'Staff', 70.00, 105.00, '09481052930', 'chelseyticzon@gmail.com', '7865', 'St. Paul Road', 'San Antonio Village', 'Valenzuela', 'Makati City', 1208),
+(3002, 3, 'Adrian', 'Cruz', 'Santos', 'Male', 7, 'Manager', 460.00, 690.00, '09481052930', 'adriansantos@gmail.com', '#34', 'Avocado St', NULL, 'Maligaya', 'Mariveles', 2106);
